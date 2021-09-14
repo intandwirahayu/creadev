@@ -10,6 +10,6 @@ Project submission untuk acara Start Summit Extension 2020 Tokopedia bersama Pro
 2. Aplikasi juga dapat dibuka langsung melalui browser dengan mengetikkan alamat file index.html disimpan
 
 #### Tampilan Aplikasi
-<img width="1135" alt="ex1" src="https://user-images.githubusercontent.com/68541473/133078516-0f21f21a-0d63-4cd4-a015-b47c96824599.png">
+![image2](https://user-images.githubusercontent.com/68541473/133222102-78492ec0-e895-4b77-aed3-cde9040927e6.png)
 
 detail tampilan aplikasi dapat dilihat pada link berikut [creadev](https://www.behance.net/gallery/111497755/Creadev-Project)
